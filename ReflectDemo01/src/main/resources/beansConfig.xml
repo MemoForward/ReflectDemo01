@@ -1,0 +1,4 @@
+<beans>
+    <bean id="student" class="com.memforward.Student"/>
+    <bean id="person" class="com.memforward.Person"/>
+</beans>
